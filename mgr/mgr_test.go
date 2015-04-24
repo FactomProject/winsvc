@@ -11,7 +11,7 @@ import (
 	"path/filepath"
 	"testing"
 
-	"github.com/btcsuite/winsvc/mgr"
+	"github.com/FactomProject/winsvc/mgr"
 )
 
 func TestOpenLanManServer(t *testing.T) {
